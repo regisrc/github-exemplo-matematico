@@ -7,7 +7,7 @@ var operacoesMatematicas = new OperacoesMatematicas();
 
 while(menu)
 {
-    Console.WriteLine("Digite a opção: ");
+    Console.WriteLine("Digite a opção:\n 1- para somar\n 2- para subtrair\n 3- para multiplicar\n 4- para dividir\n 5- para sair\n ");
     var opcao = int.Parse(Console.ReadLine());
 
     switch (opcao)
