@@ -13,3 +13,11 @@ C:\Users\filipe.regis\source\repos\ExemploGit\ExemploGit\obj\Debug\net6.0\refint
 C:\Users\filipe.regis\source\repos\ExemploGit\ExemploGit\obj\Debug\net6.0\ExemploGit.pdb
 C:\Users\filipe.regis\source\repos\ExemploGit\ExemploGit\obj\Debug\net6.0\ExemploGit.genruntimeconfig.cache
 C:\Users\filipe.regis\source\repos\ExemploGit\ExemploGit\obj\Debug\net6.0\ref\ExemploGit.dll
+C:\Users\victor.santos8\Desktop\github-exemplo-matematico\ExemploGit\obj\Debug\net6.0\ExemploGit.csproj.AssemblyReference.cache
+C:\Users\victor.santos8\Desktop\github-exemplo-matematico\ExemploGit\obj\Debug\net6.0\ExemploGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.santos8\Desktop\github-exemplo-matematico\ExemploGit\obj\Debug\net6.0\ExemploGit.AssemblyInfoInputs.cache
+C:\Users\victor.santos8\Desktop\github-exemplo-matematico\ExemploGit\obj\Debug\net6.0\ExemploGit.AssemblyInfo.cs
+C:\Users\victor.santos8\Desktop\github-exemplo-matematico\ExemploGit\obj\Debug\net6.0\ExemploGit.csproj.CoreCompileInputs.cache
+C:\Users\victor.santos8\Desktop\github-exemplo-matematico\ExemploGit\obj\Debug\net6.0\ExemploGit.dll
+C:\Users\victor.santos8\Desktop\github-exemplo-matematico\ExemploGit\obj\Debug\net6.0\refint\ExemploGit.dll
+C:\Users\victor.santos8\Desktop\github-exemplo-matematico\ExemploGit\obj\Debug\net6.0\ExemploGit.pdb
