@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\filipe.regis\\.nuget\\packages\\": {}
+    "C:\\Users\\filipe.cunha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\filipe.regis\\source\\repos\\ExemploGit\\ExemploGit\\ExemploGit.csproj",
+      "projectUniqueName": "C:\\Users\\filipe.cunha\\Downloads\\github-exemplo-matematico\\ExemploGit\\ExemploGit.csproj",
       "projectName": "ExemploGit",
-      "projectPath": "C:\\Users\\filipe.regis\\source\\repos\\ExemploGit\\ExemploGit\\ExemploGit.csproj",
-      "packagesPath": "C:\\Users\\filipe.regis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\filipe.regis\\source\\repos\\ExemploGit\\ExemploGit\\obj\\",
+      "projectPath": "C:\\Users\\filipe.cunha\\Downloads\\github-exemplo-matematico\\ExemploGit\\ExemploGit.csproj",
+      "packagesPath": "C:\\Users\\filipe.cunha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\filipe.cunha\\Downloads\\github-exemplo-matematico\\ExemploGit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\filipe.regis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\filipe.cunha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
