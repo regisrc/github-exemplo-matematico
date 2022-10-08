@@ -22,7 +22,7 @@ while(menu)
             operacoesMatematicas.Multiplicar();
             break;
         case 4:
-            operacoesMatematicas.Dividir();
+            operacoesMatematicas.Dividir(14,4);
             break;
         case 5:
             Console.WriteLine("Adeus!!");

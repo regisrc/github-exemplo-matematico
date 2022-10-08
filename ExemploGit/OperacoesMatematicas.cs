@@ -41,9 +41,10 @@
             Console.WriteLine($"O resultado da multiplicação é {n1 * n2}");
         }
 
-        public void Dividir()
+        public void Dividir(int n1, int n2)
         {
-
+            var result = n1 / n2;
+            Console.WriteLine($"Seu resultado é {result}");
         }
     }
 }
